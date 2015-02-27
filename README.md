@@ -3,6 +3,6 @@ Javascript for bobot
 
 #### v2ex.com
 
-	使用 casperjs 写的机器人 CLI 下实现 账号登陆，每日登录奖励，发表时间轴日志
+	使用casperjs写的机器人在CLI下模拟浏览器实现 账号登陆，每日登录奖励，发表时间轴日志
 
 
