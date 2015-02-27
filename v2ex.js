@@ -26,8 +26,8 @@ casper.waitForSelector('div.cell', function() {
     once = this.getElementAttribute('input[name="once"]', 'value');
     url_mission = 'http://v2ex.com/mission/daily/redeem?once=' + once;
     this.fillSelectors('form[action="/signin"]', {
-        'input[name="u"]' : 'username',
-        'input[name="p"]' : 'password',
+        'input[name="u"]' : 'jiehuangwei',
+        'input[name="p"]' : 'jhw198746',
         'input[name="next"]' : '/',
         'input[name="once"]' : this.getElementAttribute('input[name="once"]', 'value')
     }, false);
